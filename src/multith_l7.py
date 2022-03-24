@@ -29,9 +29,9 @@ import threading
 #
 # two_deposit_threads(1000000)
 # print('Balance amount = {0}'.format(amount))
-
-print('###############################')
-
+#
+# print('###############################')
+#
 # lock = threading.Lock()
 #
 # print('First try: ', lock.acquire())
